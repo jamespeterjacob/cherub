@@ -1,13 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="107px" height="16px" viewBox="0 0 107 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
-    <title>logo</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Nav-Bar/Nav-Bar-v.1-(Dark)" transform="translate(-663.000000, -36.000000)" fill="#FFFFFF" fill-rule="nonzero">
-            <g id="Nav-Bar">
-                <path d="M666.411,48.795 L668.28,48.795 C669.764007,48.795 670.890996,48.3365046 671.661,47.4195 C672.431004,46.5024954 672.816,45.2740077 672.816,43.734 C672.816,42.3759932 672.406504,41.2595044 671.5875,40.3845 C670.768496,39.5094956 669.652007,39.072 668.238,39.072 L666.411,39.072 L666.411,48.795 Z M663.702,36.846 L668.322,36.846 C670.436011,36.846 672.164993,37.4969935 673.509,38.799 C674.853007,40.1010065 675.525,41.7459901 675.525,43.734 C675.525,45.9040108 674.874007,47.6574933 673.572,48.9945 C672.269993,50.3315067 670.520011,51 668.322,51 L663.702,51 L663.702,36.846 Z M686.045,51 L686.045,36.846 L688.691,36.846 L688.691,51 L686.045,51 Z M711.559,42.747 L711.559,49.551 L711.538,49.551 L711.559,49.782 C710.270994,50.7060046 708.66101,51.168 706.729,51.168 C704.488989,51.168 702.679507,50.5170065 701.3005,49.215 C699.921493,47.9129935 699.232,46.1420112 699.232,43.902 C699.232,41.7179891 699.942493,39.9540067 701.3635,38.61 C702.784507,37.2659933 704.579989,36.594 706.75,36.594 C708.360008,36.594 709.738994,36.894997 710.887,37.497 L710.887,40.206 C709.598994,39.4359962 708.234007,39.051 706.792,39.051 C705.377993,39.051 704.237004,39.4919956 703.369,40.374 C702.500996,41.2560044 702.067,42.4319926 702.067,43.902 C702.067,45.4000075 702.490496,46.5794957 703.3375,47.4405 C704.184504,48.3015043 705.349993,48.732 706.834,48.732 C707.562004,48.732 708.268997,48.6060013 708.955,48.354 L708.955,45.015 L706.351,45.015 L706.351,42.747 L711.559,42.747 Z M725.019,48.837 L730.794,48.837 L730.794,51 L722.352,51 L722.352,36.846 L730.71,36.846 L730.71,39.009 L725.019,39.009 L725.019,42.852 L730.08,42.852 L730.08,44.994 L725.019,44.994 L725.019,48.837 Z M749.315,37.434 L749.315,39.996 C748.264995,39.3659969 747.145006,39.051 745.955,39.051 C745.296997,39.051 744.782502,39.1979985 744.4115,39.492 C744.040498,39.7860015 743.855,40.1639977 743.855,40.626 C743.855,41.0880023 744.054498,41.4694985 744.4535,41.7705 C744.852502,42.0715015 745.450996,42.4039982 746.249,42.768 C746.809003,43.0200013 747.263998,43.2404991 747.614,43.4295 C747.964002,43.6185009 748.345498,43.8809983 748.7585,44.217 C749.171502,44.5530017 749.479499,44.9554977 749.6825,45.4245 C749.885501,45.8935023 749.987,46.428997 749.987,47.031 C749.987,48.2910063 749.535505,49.2954963 748.6325,50.0445 C747.729495,50.7935037 746.543007,51.168 745.073,51.168 C743.476992,51.168 742.154005,50.867003 741.104,50.265 L741.104,47.556 C742.308006,48.4240043 743.623993,48.858 745.052,48.858 C745.696003,48.858 746.213998,48.7005016 746.606,48.3855 C746.998002,48.0704984 747.194,47.6470027 747.194,47.115 C747.194,46.8629987 747.145,46.639001 747.047,46.443 C746.949,46.246999 746.749502,46.051001 746.4485,45.855 C746.147498,45.658999 745.916501,45.5190004 745.7555,45.435 C745.594499,45.3509996 745.262003,45.1970011 744.758,44.973 C744.617999,44.9029996 744.513,44.8540001 744.443,44.826 C743.924997,44.5879988 743.505002,44.3745009 743.183,44.1855 C742.860998,43.9964991 742.511002,43.7410016 742.133,43.419 C741.754998,43.0969984 741.471501,42.7120022 741.2825,42.264 C741.093499,41.8159978 740.999,41.3050029 740.999,40.731 C740.999,39.526994 741.443496,38.5610036 742.3325,37.833 C743.221504,37.1049964 744.400993,36.741 745.871,36.741 C747.201007,36.741 748.348995,36.9719977 749.315,37.434 Z M769.243,36.846 L769.243,39.03 L765.652,39.03 L765.652,51 L762.985,51 L762.985,39.03 L759.394,39.03 L759.394,36.846 L769.243,36.846 Z" id="logo"></path>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="107px"
+   height="16px"
+   viewBox="0 0 107 16"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview12"
+     showgrid="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:zoom="6.228972"
+     inkscape:cx="52.857839"
+     inkscape:cy="8"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+  <title
+     id="title2">logo</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:'Poor Richard';-inkscape-font-specification:'Poor Richard';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="1.7659413"
+     y="16.321081"
+     id="text825"><tspan
+       sodipodi:role="line"
+       id="tspan823"
+       x="1.7659413"
+       y="16.321081"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.66666603px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">CHERUB</tspan></text>
 </svg>
